@@ -13,44 +13,44 @@ Additional Details: This is a fictional data set created by IBM data scientists.
 
 Notes: Certain columns in the dataset are ranked numerically, but they correspond to a rating scale based on the employee survey results. Below is the description of the rankings for these specific columns.
 
-Education
+Education: 
 1 'Below College'
 2 'College'
 3 'Bachelor'
 4 'Master'
 5 'Doctor'
 
-EnvironmentSatisfaction
+EnvironmentSatisfaction: 
 1 'Low'
 2 'Medium'
 3 'High'
 4 'Very High'
 
-JobInvolvement
+JobInvolvement: 
 1 'Low'
 2 'Medium'
 3 'High'
 4 'Very High'
 
-JobSatisfaction
+JobSatisfaction: 
 1 'Low'
 2 'Medium'
 3 'High'
 4 'Very High'
 
-PerformanceRating
+PerformanceRating: 
 1 'Low'
 2 'Good'
 3 'Excellent'
 4 'Outstanding'
 
-RelationshipSatisfaction
+RelationshipSatisfaction: 
 1 'Low'
 2 'Medium'
 3 'High'
 4 'Very High'
 
-WorkLifeBalance
+WorkLifeBalance: 
 1 'Bad'
 2 'Good'
 3 'Better'
